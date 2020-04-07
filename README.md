@@ -7,3 +7,6 @@ set-up-clusters-and-vectors.ipynb
 
 analysis in:
 analysis.ipynb
+
+sample set of verified results in:
+results1.txt
