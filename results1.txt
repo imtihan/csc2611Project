@@ -140,11 +140,3 @@ damn                 from 1800 to 1810 with score 0.0  https://www.etymonline.co
 if no change, defaults to showing 1800 to 1810
 
 
-top 20 score: 8/20=0.40 accuracy
-top 501-520 score: 3/20=0.15 accuracy
-top 1001-1020 score: 3/20=0.15 accuracy
-least 20 changed: 13/20 = 0.65 accuracy
-
-8/15
-
-8/15
