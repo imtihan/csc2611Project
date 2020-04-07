@@ -1,0 +1,150 @@
+format: word/timestep/score/verificationlink/result (first appears at most 20 years window of range), definition
+=====================================================================================
+top 20 from 1800-1990               
+=====================================================================================
+priest               from 1810 to 1820 with score 0.49344568351935775 https://www.etymonline.com/word/priest#etymonline_v_19497             false, old English word
+group                from 1820 to 1830 with score 0.49000034686126315 https://www.etymonline.com/word/group#etymonline_v_14309              true, intransitive meaning, 1801
+furniture            from 1820 to 1830 with score 0.4894928634770581  https://www.etymonline.com/word/furniture#etymonline_v_14269          false, last change 1570
+betwixt              from 1810 to 1820 with score 0.4862942260061359  https://www.etymonline.com/word/betwixt#etymonline_v_11092            false, last change c.1500
+mass                 from 1820 to 1830 with score 0.4810065320504816  https://www.etymonline.com/word/mass#etymonline_v_43730               false, mass movement 1897
+wild                 from 1810 to 1820 with score 0.4796633414727127  https://www.etymonline.com/word/wild#etymonline_v_25505               true, wild west 1826
+followers            from 1820 to 1830 with score 0.4764924878414963  https://www.etymonline.com/word/follow?ref=etymonline_crossreference  true, children's game follow my leader 1812
+lies                 from 1810 to 1820 with score 0.4744547190283136  https://www.etymonline.com/word/lying#etymonline_v_52075              false, old English word
+capital              from 1820 to 1830 with score 0.47303762121792553 https://www.etymonline.com/word/capital#etymonline_v_33634            true, "excellent, first-rate"  1762-1875 (first example in OED) 
+shot                 from 1810 to 1820 with score 0.47017686412459125 https://www.etymonline.com/word/shot#etymonline_v_23435               true, "ruined, worn out" 1833
+separated            from 1810 to 1820 with score 0.4695941440276239  https://www.etymonline.com/word/separate?ref=etymonline_crossreference#etymonline_v_23231 false, but close to segregation 1890 
+favourite            from 1810 to 1820 with score 0.46570911946906046 https://www.etymonline.com/word/favor?ref=etymonline_crossreference   false, last change 1600
+leader               from 1820 to 1830 with score 0.4650287264067547  https://www.etymonline.com/word/leader#etymonline_v_30152             true, leading article 1807 / opinion piece in a British newspaper 1837
+arose                from 1810 to 1820 with score 0.4633765087524383  https://www.etymonline.com/word/arise?ref=etymonline_crossreference#etymonline_v_16995 false, old English word
+empire               from 1820 to 1830 with score 0.463320868994513   https://www.etymonline.com/word/empire#etymonline_v_5820              true, NY is called Empire State 1837
+original             from 1810 to 1820 with score 0.4628871591456816  https://www.etymonline.com/word/original#etymonline_v_29886           false, "fresh, novel" 1782
+literature           from 1820 to 1830 with score 0.4626395700211311  https://www.etymonline.com/word/literature#etymonline_v_12314         true, "literary productions as a whole, body of writings from a period or people" 1812
+surrounded           from 1810 to 1820 with score 0.4625900334312861  https://www.etymonline.com/word/surround#etymonline_v_22427           false, "to shut on all sides" 1610
+faith                from 1810 to 1820 with score 0.4619557928381017  https://www.etymonline.com/word/faith#etymonline_v_1088               false, "religious persuasion" 1400s
+host                 from 1810 to 1820 with score 0.4614917595831029  https://www.etymonline.com/word/host                                  false, "animal or plant having a parasite" 1857
+
+
+rank 40-60
+classes              from 1820 to 1830 with score 0.46115649534100867   false
+union                from 1820 to 1830 with score 0.46103456271257465   true
+sudden               from 1810 to 1820 with score 0.4608745087080043    true
+bow                  from 1810 to 1820 with score 0.4599992811744008    true
+citizens             from 1820 to 1830 with score 0.45979337413702304   false
+band                 from 1820 to 1830 with score 0.459004899860661     false
+afternoon            from 1810 to 1820 with score 0.4588880019325323    false
+playing              from 1820 to 1830 with score 0.4583558451511398    false
+branch               from 1820 to 1830 with score 0.4571881407667031    false
+vicinity             from 1820 to 1830 with score 0.45675486873443455   true
+countries            from 1820 to 1830 with score 0.4563790204328811    false
+crew                 from 1820 to 1830 with score 0.4559522089113484    false
+walking              from 1810 to 1820 with score 0.4557057803508936    false
+grave                from 1810 to 1820 with score 0.45528934121916986   false
+poet                 from 1810 to 1820 with score 0.45477094785679545   false
+apartments           from 1820 to 1830 with score 0.45465718708412545   true
+dozen                from 1810 to 1820 with score 0.45457571019478726   false
+broken               from 1810 to 1820 with score 0.4534532215882382    true
+forms                from 1820 to 1830 with score 0.4531855713523908    true
+farm                 from 1820 to 1830 with score 0.4525533425238743    true "buy the farm" -> die in battle 1825
+dog                  from 1810 to 1820 with score 0.45200366424354643   true "Dog's age" -> long time 1836
+david                from 1810 to 1820 with score 0.45052731931985707   false
+powerful             from 1810 to 1820 with score 0.4496104623393099    true "good quality or number" 1811, another 1822 for exceedingly extreme
+audience             from 1820 to 1830 with score 0.4481899697947929    true "readers of a book"
+rock                 from 1810 to 1820 with score 0.4480905661690716    true rock lobster 1843
+notes                from 1820 to 1830 with score 0.4478357731916193    false
+distant              from 1810 to 1820 with score 0.4465714761355658    false
+voyage               from 1810 to 1820 with score 0.44639766364640854   false
+sorrow               from 1810 to 1820 with score 0.44624732148700746   false
+edinburgh            from 1810 to 1820 with score 0.4456456737645945    false
+branches             from 1820 to 1830 with score 0.4455372907113936    true 1817 -> office or business
+sex                  from 1810 to 1820 with score 0.4453655624852374    false
+opinions             from 1820 to 1830 with score 0.44513884076304      false
+melancholy           from 1810 to 1820 with score 0.44431477490960763   true (but due to old medicine use fading out by 1800s)
+soldier              from 1810 to 1820 with score 0.4440426752607241    false
+iron                 from 1810 to 1820 with score 0.44378570578604853   true 1842 -> golf club with iron head
+quarters             from 1810 to 1820 with score 0.4433594316371411    false
+christian            from 1810 to 1820 with score 0.443298416332225     false
+beloved              from 1810 to 1820 with score 0.44316395834334      false
+points               from 1820 to 1830 with score 0.44264285328613245   false 
+=====================================================================================
+top 501-520 from 1800-1990
+=====================================================================================
+game                 from 1820 to 1830 with score 0.33362999437196694 https://www.etymonline.com/word/game#etymonline_v_1253                true, "number of points required to win a game" 1830
+volume               from 1820 to 1830 with score 0.33359776390306684 https://www.etymonline.com/word/volume#etymonline_v_7877              false,  "bulk, mass, quantity" 1620s 
+inspired             from 1840 to 1850 with score 0.33349271637644146 https://www.etymonline.com/word/inspired#etymonline_v_51463           false, "infused with seemingly supernatural influence." 1660s
+surface              from 1810 to 1820 with score 0.3332758870203577  https://www.etymonline.com/word/surface#etymonline_v_22410            false, "to give something a (polished) surface" 1778                      
+intellect            from 1840 to 1850 with score 0.3331463572092524  https://www.etymonline.com/word/intellect#etymonline_v_9380           false, "the capacity for reasoning truth," c.14th century but not common until 1600s
+rode                 from 1810 to 1820 with score 0.33221725093319504 https://www.etymonline.com/word/rid                                   false, "ride shank's mare" 1846
+lively               from 1830 to 1840 with score 0.3321539712182232  https://www.etymonline.com/word/lively#etymonline_v_12332             false, old English word
+race                 from 1810 to 1820 with score 0.33177112697611194 https://www.etymonline.com/word/race#etymonline_v_3254                true, "run in competition against" 1809
+exception            from 1820 to 1830 with score 0.3313305161726092  https://www.etymonline.com/word/exception#etymonline_v_29822          false, "restriction" 14c
+chest                from 1820 to 1830 with score 0.33130943331795387 https://www.etymonline.com/word/chest#etymonline_v_11234              false, "chest of drawers" 1670s
+chiefly              from 1820 to 1830 with score 0.331186304367366   https://www.etymonline.com/word/chiefly#etymonline_v_28019            false, "pertaining to a chief" 1870s
+mortal               from 1830 to 1840 with score 0.33110627109295576 https://www.etymonline.com/word/mortal#etymonline_v_18381             false, "a human being" 1560s
+sisters              from 1820 to 1830 with score 0.3310335159183526  https://www.etymonline.com/word/sister#etymonline_v_23577             false, "women in general" 1906/"fellow feminist" 1912/"black woman" 1926
+suffering            from 1820 to 1830 with score 0.33100000662600393 https://www.etymonline.com/word/suffer?ref=etymonline_crossreference#etymonline_v_22311 false, "Suffering ______!" 1859
+innocence            from 1830 to 1840 with score 0.3309038259864857  https://www.etymonline.com/word/innocence#etymonline_v_34906          false, freedom from legal wrong" 1550s
+impression           from 1810 to 1820 with score 0.33068554111175913 https://www.etymonline.com/word/impression#etymonline_v_34590         false, "belief, vague notion" 
+saxon                from 1820 to 1830 with score 0.33002169272830967 https://www.etymonline.com/word/Saxon#etymonline_v_22808              false, "State of Saxony" 1630s
+addition             from 1820 to 1830 with score 0.3299561494917687  https://www.etymonline.com/word/addition#etymonline_v_5099            false, in addition to mean "also" 1680s.
+departure            from 1810 to 1820 with score 0.32983634908858084 https://www.etymonline.com/word/departure#etymonline_v_29544          false, "act of going away" 15c
+pipe                 from 1820 to 1830 with score 0.32968183460201467 https://www.etymonline.com/word/pipe#etymonline_v_16365               true, nautical: bo'sun's whistle signal to dismiss the men from duty (1833).
+
+=====================================================================================
+top 1001-1020 from 1800-1990
+=====================================================================================
+collar               from 1820 to 1830 with score 0.2495299396203297  https://www.etymonline.com/word/collar#etymonline_v_15822             false, "put a collar on" 16c
+deeds                from 1840 to 1850 with score 0.24943369573567858 https://www.etymonline.com/word/deed#etymonline_v_889                 false, "convey or transfer by deed," 1806
+deeper               from 1830 to 1840 with score 0.24940102093959987 https://www.etymonline.com/word/deep#etymonline_v_46607               false, "Deep pocket" 1951 
+virtues              from 1840 to 1850 with score 0.24935792994775996 https://www.etymonline.com/word/virtue#etymonline_v_7822              false,  "chastity, sexual purity" from 1590s
+utterance            from 1840 to 1850 with score 0.2493372679026744  https://www.etymonline.com/word/utterance#etymonline_v_34879          false, "that which is uttered," c. 1400
+edited               from 1860 to 1870 with score 0.2493286577086813  https://www.etymonline.com/word/edit#etymonline_v_32070               true, "make revisions to a manuscript, etc.," 1885
+privilege            from 1840 to 1850 with score 0.24904184326812434 https://www.etymonline.com/word/privilege#etymonline_v_47416          false, advantage granted" is from mid-14c
+scheme               from 1840 to 1850 with score 0.2490347337007254  https://www.etymonline.com/word/scheme#etymonline_v_22879             true, Color scheme is attested from 1884.
+reputation           from 1820 to 1830 with score 0.24902632071969086 https://www.etymonline.com/word/reputation#etymonline_v_12869         false, "credit, good reputation," mid-14c. 
+amount               from 1820 to 1830 with score 0.24884047520741565 https://www.etymonline.com/word/amount#etymonline_v_11005             false, "quantity, sum," 1710 verb earlier
+closely              from 1820 to 1830 with score 0.24875650540595218 https://www.etymonline.com/word/closely#etymonline_v_47751            false, 1630s as "nearly."
+loves                from 1830 to 1840 with score 0.24856685967904993 https://www.etymonline.com/word/love#etymonline_v_14557               false, "Love bug, imaginary insect" 1883
+outward              from 1840 to 1850 with score 0.24847947381734983 https://www.etymonline.com/word/outward#etymonline_v_10019            false, "external appearance of feelings" 1500s
+charming             from 1830 to 1840 with score 0.24821129385303226 https://www.etymonline.com/word/charm?ref=etymonline_crossreference#etymonline_v_38511    true, "worked like a charm" 1824 and "charmed" as reply 1825
+slender              from 1860 to 1870 with score 0.2481419457320006  https://www.etymonline.com/word/slender#etymonline_v_23666            false, "thin" 1400s
+intelligent          from 1840 to 1850 with score 0.24800025881852017 https://www.etymonline.com/word/intelligence?ref=etymonline_crossreference false, back formation for intelligent 1500s. Intellectualize from 1827s.
+summoned             from 1820 to 1830 with score 0.24791817280783915 https://www.etymonline.com/word/summon#etymonline_v_22343             false, "arouse, excite to action" 1580s
+rolled               from 1820 to 1830 with score 0.24782831272821593 https://www.etymonline.com/word/roll#etymonline_v_15165               false, "rob a stuporous drunk" 1873
+destruction          from 1810 to 1820 with score 0.24776897514817323 https://www.etymonline.com/word/destruction#etymonline_v_5676         false, "cause of destruction" 14c
+charms               from 1840 to 1850 with score 0.24769022931827894 https://www.etymonline.com/word/charm#etymonline_v_38511              true, "small trinket fastened to a watch-chain, etc." 1865
+
+=====================================================================================
+least 20 changed from 1800-1990
+=====================================================================================
+hallway              from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/hallway#etymonline_v_34136   false, 1839, from hall + way (n.).
+forgive              from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/forgive#etymonline_v_11804   true,  "give, grant, allow;" old English
+lap                  from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/lap#etymonline_v_2057        false, "a turn around a track" 1861/ "splash gently, flow against" 1823
+sleeping             from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/sleeping#etymonline_v_48753  true,  c. 1300 present-participle adjective from sleep 
+spent                from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/spent#etymonline_v_48981     true, "worn out, exhausted from overwork," 1560s
+wants                from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/want#etymonline_v_25441      true, "desire, wish for, feel the need of" is recorded by 1706.
+space                from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/space#etymonline_v_23940     false, "outer space" 1894. Space race attested from 1959. Space shuttle attested by 1970..
+manners              from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/manners#etymonline_v_31689   true,  "proper behavior, commendable habits of conduct" (c. 1300).
+traveled             from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/travel#etymonline_v_16914    true, "to journey" 14c. Unigram form unchanged.
+bet                  from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/bet#etymonline_v_11078       true, "make a wager " 1590s
+breakfast            from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/breakfast#etymonline_v_17080 true, "morning meal" 1670s
+toronto              from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/Toronto#etymonline_v_25772   false, York renamed in 1834
+lets                 from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/let#etymonline_v_6705        true, "to allow" has many valid contexts so it's stable
+pick                 from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/pick#etymonline_v_14936      true, (for fiction) Did not pick up "to put out a runner on base" is from 1939
+lookin               from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/looking#etymonline_v_31001   true, "look in the eyes, facial expression;" 12c
+hang                 from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/hang#etymonline_v_1438       false, "to idle" 1828, to come to a standstill" 1858
+ll                   from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/LL.#etymonline_v_12344       false, contraction of Latin legum "of laws, in degrees;"  ambiguous 
+mama                 from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/mama#etymonline_v_6755       false, "sexually attractive woman" 1925 African-American Vernacular
+everyone             from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/everyone#etymonline_v_38476  true, c. 1200, from every + one.
+damn                 from 1800 to 1810 with score 0.0  https://www.etymonline.com/word/damn#etymonline_v_752        true, Newest change is "Damn Yankee" from 1812. Too early to catch.
+
+if no change, defaults to showing 1800 to 1810
+
+
+top 20 score: 8/20=0.40 accuracy
+top 501-520 score: 3/20=0.15 accuracy
+top 1001-1020 score: 3/20=0.15 accuracy
+least 20 changed: 13/20 = 0.65 accuracy
+
+8/15
+
+8/15
